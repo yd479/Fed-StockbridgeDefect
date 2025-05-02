@@ -1,0 +1,7 @@
+# data.yaml
+train: FDRD/train/images
+val: FDRD/val/images
+test: FDRD/test/images
+
+nc: 2                        # 类别数量
+names: ['n', 'r']  # 类别名称
